@@ -1,0 +1,19 @@
+{
+    "name": "JackieSoft.ListView",
+    "rootNamespace": "",
+    "references": [
+        "GUID:49b49c76ee64f6b41bf28ef951cb0e50",
+        "GUID:21b0c8d1703a94250bfac916590cea4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_2019_3_OR_NEWER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
